@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    padding: 0; 
+}
+h1 {
+    font-size: 35px;
+}
+h2{
+    font-size: 25px;
+}
+img {
+    max-width: 100%;
+}
+.text-color {
+    color: #ffad5a;
+}
+.fix-width {
+    width: 1222px;
+    margin: 0 auto;
+}
+/* maincss */
+.banner-section {
+    display: flex;
+}
+
+.banner-section-text {
+    width: 25%;
+    margin-left: 73px;
+}
+.banner-item-text {
+    border-left: 3px solid #ff5959;
+    line-height: 31px;
+    padding-left: 8px;
+}
+.banner-image {
+    margin-left: 358px;
+    margin-top: -56px;
+}
+.banner-image img {
+    width: 300px;
+}
+.deful-button {
+    text-decoration: none;
+    background-color: #ff5959;
+    color: white;
+    width: 92px;
+    padding: 15px 25px;
+    border-radius: 5px;
+    display: block;
+    margin-top: 14px;
+}
+/* mission-protfolio */
+.mission-protfolio {
+    margin-top: 101px;
+}
+.Mission {
+    text-align: center;
+}
+.Mission-profolio-items {
+    width: 22%;
+    border-radius: 10px;
+    padding: 20px 15px;
+    margin-left: 5%;
+}
+.backgroun-1 {
+    background-color: #edf5f6;
+}
+.backgroun-2 {
+    background-color: #ffeeee;
+}
+.backgroun-3 {
+    background-color: #fff4d6;
+}
+.Mission-profolio-items-images img {
+    width: 117px;
+}
+/* main-midel */
+.main-midel {
+    display: flex;
+    margin-left: 5%;
+    margin-top: 79px;
+
+}
+.midel-image {
+    width: 30%;
+}
+.midel-text {
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 28px;
+}
+.deful-button-1 {
+    text-decoration: none;
+    background-color: #ff5959;
+    color: white;
+    width: 160px;
+    padding: 15px 25px;
+    border-radius: 5px;
+    display: block;
+    margin-top: 14px;
+}
+
+
+/*  */
+.tex-tmunium-main{
+    margin-top: 50px;
+}
+.tex-tmunium {
+    display: flex;
+}
+.tex-tmunium-image {
+    width: 40%;
+}
+.tex-tmunium-text {
+    width: 37%;
+    margin-left: 5%;
+    margin-top: 35px;
+}
+.tex-tmunium-image img {
+    width: 406px;
+}
+.tex-tmunium-image {
+    width: 40%;
+    padding-left: 159px;
+}
+
+/* map */
+.map-div{
+    display: flex;
+    padding: 50px;
+}
+.map-from {
+    margin-left: 315px;
+    margin-top: 67px;
+    padding: 60px;
+    height: 201px;
+    box-shadow: 4px 4px 20px;
+}
+.map-div input {
+ padding: 15px;
+}
+.map-div input {
+ padding: 15px;
+ margin: 6px;
+border: none;
+ box-shadow: 3px 3px 6px;
+}
+
+/* futter */
+.futter {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 94px;
+    padding: 20px 0;
+}
